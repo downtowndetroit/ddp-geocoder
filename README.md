@@ -19,12 +19,12 @@
 			<li>put <b>absolute path of the reference</b> path after <code>reference_path</code> key in <code>config.json</code> file.</li>
 			<li>insert Google API key after googleApiKey key in the config file, the key should support geocode api.</li>
 		</ul></li>
-	<li>the system should have updated version of python3 with <code>pandas</code>, <code>requests</code> and <code>xlrd</code> libraries.</li>
+	<li>the system should have updated version of python3 with <code>pandas</code>, <code>requests</code>, <code>openpyxl</code> and <code>xlrd</code> libraries.</li>
 </ol>
 
 **Install Required Packages**
 Within Anaconda Environment, intall libraries using:
-<pre><code>conda install pandas requests xlrd >= 0.9.0
+<pre><code>conda install pandas requests openpyxl xlrd >= 0.9.0
 </code></pre>
 
 ### config.json Template
