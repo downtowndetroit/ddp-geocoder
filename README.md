@@ -44,7 +44,7 @@ Within Anaconda Environment, intall libraries using:
 after editing the `config.json`, let's run the tool
 This application run in the command line. Open terminal 
 (or windows command line) and run following commands</p>
-<pre><code>$ cd DDP-projects
+<pre><code>$ cd ddp-geocoder
 </code></pre>
 <pre><code>$ python geocoder.py
 </code></pre>
