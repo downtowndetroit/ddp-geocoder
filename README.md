@@ -23,7 +23,7 @@
 </ol>
 
 **Install Required Packages**
-Within Anaconda Environment, intall <code>pandas</code> using:
+Within Anaconda Environment, intall <code>pandas</code>,<code>requests</code> using:
 <pre><code>conda install pandas requests
 </code></pre>
 
