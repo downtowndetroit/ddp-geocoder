@@ -19,12 +19,12 @@
 			<li>put <b>absolute path of the reference</b> path after <code>reference_path</code> key in <code>config.json</code> file.</li>
 			<li>insert Google API key after googleApiKey key in the config file, the key should support geocode api.</li>
 		</ul></li>
-	<li>the system should have updated version of python3 with <code>pandas</code>, <code>numpy</code> libraries.</li>
+	<li>the system should have updated version of python3 with <code>pandas</code>, <code>requests</code> libraries.</li>
 </ol>
 
 **Install Required Packages**
 Within Anaconda Environment, intall <code>pandas</code> using:
-<pre><code>conda install pandas
+<pre><code>conda install pandas requests
 </code></pre>
 
 ### config.json Template
